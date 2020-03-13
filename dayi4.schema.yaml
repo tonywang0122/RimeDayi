@@ -62,7 +62,7 @@ engine:	# 輸入引擎設定，即掛接組件的「處方」
 
 menu:	#菜單選項
   alternative_select_keys: " '[]" 	#重碼選擇鍵，如沒有寫-預設 ctrl+123456789
-  page_size: 3 #選單 每頁 顯示 個數
+  page_size: 4 #選單 每頁 顯示 個數
 
 speller:
   alphabet: '0123456789/.,;abcdefghijklmnopqrstuvwxyz'
